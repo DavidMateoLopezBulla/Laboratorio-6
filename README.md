@@ -60,9 +60,10 @@ FDC 4877
 
 
 ### CONCLUSIONES
-- La máxima potencia de carga se logra cuando RL sea igual a la resistencia interna Ri, siendo importante que la resistencia de carga deba adaptarse a la resistencia interna en las fuentes de voltaje.
-- El dominio de la teoría nos permitirá conocer a través de cálculos que mientras más lejos se encuentre el valor de la resistencia de carga RL al valor de la resistencia interna Ri menor será la potencia que entregue la fuente de voltaje.
-- La práctica y aplicación de la teoría de la máxima potencia de energía permite el entendimiento de que la cantidad máxima de energía se presenta por una resistencia de carga RL cuando es igual a la resistencia de Thevenin o Northon (Ri) de la red que suministra energía. 
+- Las ondas sinusoidales nos sirven para interpretar gráfiamente que está pasando con un circuito que tenga corriente o voltaje alternado ya sea que se esté adelantando
+o retrasando.
+- Este tipo de ondas nos ayudan a tener varios datos importantes para el cálculo de nuestro circuito mediante dispositivos que nos permitan ver dichas ondas como el osciloscopio.
+- Se pueden obtener datos para los cálculos de nuestro circuito utilizando solo la gráfica de nuestras ondas más estos nunca serán exactos sino que serán valores aproximados. 
 
 ### BIBLIOGRAFÍA
 - Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
