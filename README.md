@@ -13,10 +13,8 @@ FDC 4877
 - Aprender la facilidad que brinda la cualidad repetitiva continua y regular de los voltajes y corrientes que pueden ser graficadas de manera sinusoidal en función del tiempo.
 
 ### MARCO TEÓRICO 
-
-
-
-
+![1](https://user-images.githubusercontent.com/76136049/109261203-78958d00-77cd-11eb-900e-3c2da6050fbc.png)
+![2](https://user-images.githubusercontent.com/76136049/109261205-792e2380-77cd-11eb-9ccf-04d4706054fd.png)
 ### DIAGRAMAS
 
 ![Diagrama 1](https://user-images.githubusercontent.com/76136485/109260338-f6589900-77cb-11eb-9441-1de15e5c9656.png)
